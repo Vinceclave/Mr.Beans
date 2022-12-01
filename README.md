@@ -29,5 +29,5 @@
   📫 How to reach me:  <a href="https://www.linkedin.com/in/vince-clave-igot-0338b8232">
     <img src="https://img.shields.io/badge/kakbar-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  
  </div>
+ <hr>
