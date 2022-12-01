@@ -16,3 +16,7 @@
     <img src="https://komarev.com/ghpvc/?username=Vinceclave&style=flat-square&color=blue" alt=""/>
   </a>
 </div
+<div id="about-me" align="start">
+  <h2>About Me</h2>
+  I am a Front End Web
+ </div>
