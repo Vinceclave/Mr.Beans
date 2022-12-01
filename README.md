@@ -11,8 +11,8 @@
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+</div>
   <a href="your-github-URL">
     <img src="https://komarev.com/ghpvc/?username=Vinceclave&style=flat-square&color=blue" alt=""/>
   </a>
-</div>
 </div
