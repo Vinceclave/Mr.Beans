@@ -27,7 +27,7 @@
   ⚡ In my freetime i often do a lot of household chores, and sort of home workout exercises.
     
   📫 How to reach me:  <a href="https://www.linkedin.com/in/vince-clave-igot-0338b8232">
-    <img src="https://img.shields.io/badge/kakbar-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/mr.beans-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
  </div>
  <hr>
@@ -40,4 +40,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/Vinceclave/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinceclave&layout=compact&theme=vision-friendly-dark)](https://github.com/Vinceclave/github-readme-stats)
