@@ -18,5 +18,5 @@
 </div
 <div id="about-me" align="start">
   <h2>About Me</h2>
-  I am a Front End Web
+  I am a Front End Web from Philippines https://img.shields.io/badge/dynamic/json?url=<URL>&label=<LABEL>&query=<$.DATA.SUBDATA>&color=<COLOR>&prefix=<PREFIX>&suffix=<SUFFIX>
  </div>
