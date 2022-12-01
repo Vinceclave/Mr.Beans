@@ -18,6 +18,6 @@
 </div
 <div id="about-me" align="start">
   <h2> 👨‍💻 About Me</h2>
- I am a Front End Web  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Philippines 🇵🇭
+  <p> I am a Front End Web  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Philippines 🇵🇭 </p>
   
  </div>
