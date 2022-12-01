@@ -23,7 +23,7 @@
       🌱 Exploring more in deep learning of web development. <br>
       ⚡ In my freetime i often do a lot of household chores, and sort of home workout exercises.
       📫 How to reach me:  <a href="https://www.linkedin.com/in/vince-clave-igot-0338b8232">
-    <img src="https://img.shields.io/badge/kakbar-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Vinceclave-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   </p>
  </div>
