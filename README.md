@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <h1>Mr. Beans</h1>
   <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/vince-clave-igot-0338b8232">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.facebook.com/vince.clave.94">
@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?username=Vinceclave3&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-  <a href="your-github-URL">
+  <a href="https://github.com/Vinceclave">
     <img src="https://komarev.com/ghpvc/?username=Vinceclave&style=flat-square&color=blue" alt=""/>
   </a>
 </div
